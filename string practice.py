@@ -1,0 +1,5 @@
+name=input("first name:" )
+print("length of your name is :",len(name))
+text=input(" write a sentence:")
+target= input("write the searching text here:")
+print(text.count(target))
